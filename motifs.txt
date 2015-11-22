@@ -441,11 +441,11 @@ A139.9.1 Goddess with red urine.
 A139.9.2 Gods have ichor, not blood: can be wounded but not killed.
 A139.9.3 Gods covered with red and yellow feathers.
 A139.10 God with myriad natures.
-A139.11 <span lang="EN-US">Gods recognized by natural phenomena associated with their worship--color, scent, etc.</span>
+A139.11 Gods recognized by natural phenomena associated with their worship--color, scent, etc.
 A139.12 Long-suffering God.
 A139.13 Temperamental goddess.
 A139.14 Ugly god.
-A139.15 <span lang="EN-US">Greedy god.</span>
+A139.15 Greedy god.
 A141 God as craftsman.
 A141.1 God makes automata and vivifies them.
 A141.2 God builds temple in heaven and brings it later to earth.
@@ -1306,8 +1306,8 @@ A661.0.9 Heaven surrounded by seven walls.
 A661.0.10 Land of the saints surrounded by fiery circle.
 A661.1 Valhalla.
 A661.1.0.1 Valhalla has five hundred and forty doors.
-A661.1.0.2 Goat (Heidr</i><i>ú</i><i><span lang="EN-US" style="font-family:&quot;&quot;;">n) in Valhalla gives mead.</span>
-A661.1.0.3 Hog (Soehr</i><i>í</i><i><span lang="EN-US" style="font-family:&quot;&quot;;">mnir) in Valhalla gives meat.</span>
+A661.1.0.2 Goat (Heidrún) in Valhalla gives mead.
+A661.1.0.3 Hog (Soehrímnir) in Valhalla gives meat.
 A661.1.0.4 Deer (Eikthyrnir) in Valhalla fills the fountain Hvergelmir.
 A661.1.0.5 Cock in Valhalla awakens the gods.
 A661.1.1 Inhabitants of heaven divided into companies.
@@ -1521,7 +1521,7 @@ A723 Boat of the sun.
 A724 Chariot of the sun.
 A724.1 Charioteer of the sun.
 A724.1.0.1 Coyote rides with sun.
-A724.1.1 Pha</i><i>ë</i><i>ton.
+A724.1.1 Phaëton.
 A724.1.2 Chariot of sun accompanied by angels.
 A724.2 The sun a golden bowl on the rim of which sits a peacock; both bowl and peacock are in a crystal box, which rests on a flying chariot.
 A725 Man controls rising and setting of sun.
@@ -6015,7 +6015,7 @@ B53.3 Gold thrown on shore by siren.
 B53.4 Siren’s song causes sleep.
 B55 Man with bird's head.
 B56 Garuda-bird.
-B57 "</i><i>Finngálkn", bird with a man’s head.
+B57 "Finngálkn", bird with a man’s head.
 B60.1 Parent of all fishes.
 B61 Leviathan.
 B62 Flying fish.
@@ -6703,7 +6703,7 @@ B242 King of birds.
 B242.1 Various birds as king of birds.
 B242.1.1 Eagle king of birds.
 B242.1.2 Wren king of birds.
-B242.1.2.1 Wren as "druid of the birds"</i><i> (drui én).
+B242.1.2.1 Wren as "druid of the birds" (drui én).
 B242.1.3 Hornbill king of birds.
 B242.1.4 Pelican as king of birds.
 B242.1.5 Shrike as king of birds.
@@ -8745,7 +8745,7 @@ C492 Tabu: speaking to strangers.
 C493 Tabu: thanking (under certain circumstances).
 C493.1 Tabu: wishing good luck.
 C494 Tabu: cursing.
-C495 <span lang="EN-US">Tabu: using any except one certain phrase.</span>
+C495 Tabu: using any except one certain phrase.
 C495.1 All questions to be answered, "I don't know".
 C495.2 "We three"--"For gold"--"That is right".
 C495.2.1 "We three"--"For gold"--"That is right" devil’s bargain.
@@ -11109,7 +11109,7 @@ D861.3 Magic object stolen by brothers.
 D861.4 Magic object stolen by rival for wife.
 D861.4.1 Magic object stolen by rival's emissary.
 D861.5 Magic object stolen by hero’s wife.
-D861.5.1 Magic object stolen by owner'</i><i>s fiancée.
+D861.5.1 Magic object stolen by owner's fiancée.
 D861.6 Magic object stolen in card game.
 D861.7 Magic object carried off by bird.
 D861.7.1 Magic horn carried off by bird.
@@ -15565,11 +15565,11 @@ D2004.9 Forgetfulness caused by specific place.
 D2004.9.1 Forgetfulness caused by Tower of Babel.
 D2004.10 Barking of brazen dogs causes forgetfulness.
 D2006 Magic reawakening of memory.
-D2006.1 Forgotten fiancée reawakens husband</i><i>’s memory.
-D2006.1.1 Forgotten fiancée reawakens husband</i><i>’s memory by detaining lovers through magic.
-D2006.1.2 Forgotten fiancée reawakens husband</i><i>’s memory by serving as milkmaid and talking to calf.
-D2006.1.3 Forgotten fiancée reawakens husband</i><i>'s memory by having magic doves converse.
-D2006.1.4 Forgotten fiancée buys place in husband</i><i>’s bed and reawakens his memory.
+D2006.1 Forgotten fiancée reawakens husband’s memory.
+D2006.1.1 Forgotten fiancée reawakens husband’s memory by detaining lovers through magic.
+D2006.1.2 Forgotten fiancée reawakens husband’s memory by serving as milkmaid and talking to calf.
+D2006.1.3 Forgotten fiancée reawakens husband's memory by having magic doves converse.
+D2006.1.4 Forgotten fiancée buys place in husband’s bed and reawakens his memory.
 D2006.1.5 Forgotten fiancée attracts attention by magically stopping wedding carriage of new bride.
 D2006.1.6 Forgotten fiancée remembered by means of doll.
 D2006.1.7 Forgotten fiancée remembered by means of bird.
@@ -19342,7 +19342,7 @@ F243.3.1 Animals eaten by fairies become whole again.
 F243.4 Fairy food undiminished when eaten.
 F243.5 Fairies’ food gives immortality.
 F244 Fairies' treasure.
-F244.1 "</i><i>The Four Jewels of the Tuatha Dé Danann"
+F244.1 "The Four Jewels of the Tuatha Dé Danann"
 F244.2 Fairy shows hiding place of treasure in return for freedom.
 F244.3 Fairy fetches mortals to remove treasure hidden by ghosts in their lifetimes.
 F244.4 Fairies scare treasure-seeker away from hoard.
@@ -27071,7 +27071,7 @@ H1021.10 Task: brewing ale from sweet milk.
 H1021.11 Task: making a peacock of silk.
 H1022 Task: construction from impossible amount of material.
 H1022.1 Task: weaving cloth from two threads.
-H1022.2 Task: making many shirts</i> (clothing an army) <i>from one hank of flax
+H1022.2 Task: making many shirts (clothing an army) from one hank of flax
 H1022.2.1 Task: clothing an army from one hank of flax; countertask: making horseshoes for cavalry from one needle.
 H1022.2.2 Task: weaving a shirt from a piece of thread; countertask: making a loom from a rod.
 H1022.3 Task: making sails for ship from one bundle of linen; countertask: making spindle and loom from one stick of wood.
@@ -27197,7 +27197,7 @@ H1071 Task: eat bread but bring it back whole.
 H1072 Task: give sheep good care but do not let it fatten.
 H1073 Task: filling glasses with water that has neither fallen from heaven nor sprung from the earth.
 H1074 Task: furnish beef which is neither male nor female.
-H1075 Task: bringing something ever-increasing</i> (ambition); <i>something ever-decreasing</i> (life); <i>something which neither increases nor decreases</i> (one’s fated lot); <i>and something which both increases and decreases
+H1075 Task: bringing something ever-increasing (ambition); something ever-decreasing (life); something which neither increases nor decreases (one’s fated lot); and something which both increases and decreases
 H1077 Task: building house neither on ground nor in sky.
 H1091 Task: sorting a large amount of grain (beads, beans, peas) in one night.
 H1091.1 Task: sorting grains: performed by helpful ants.
@@ -28375,7 +28375,7 @@ J102 Bear learns how to catch crabs with his hairy claws.
 J121 Ungrateful son reproved by naïve action of his own son: preparing for old age.
 J121.1 Ungrateful son reproved by naïve action of his own son: preparing for old age (wooden drinking cup or bowl).
 J121.2 Undutiful son rebuked by father.
-J122 Naïve remark of child: </i><i>"You forgot to strike mother."
+J122 Naïve remark of child: "You forgot to strike mother."
 J122.1 Seducer about to seduce mother of child refrains when child wisely remarks that he is sad because his father has left his mother exposed to such dangers.
 J123 Wisdom of child decides lawsuit.
 J123.1 Clever prince overrules seemingly just decisions of king.
@@ -34630,7 +34630,7 @@ K1886.4 Travelers mistake brushwood at a distance for a ship.
 K1886.5 Companions separated by illusory city.
 K1886.6 Illusory shapes of animals made to appear on hilltops.
 K1886.7 Illusory mountain (hill).
-K1886.7.1 Tuatha Dé Danann cause island to appear to be </i><i>"hog’s back".
+K1886.7.1 Tuatha Dé Danann cause island to appear to be "hog’s back".
 K1887 Illusory sounds.
 K1887.1 Echo answers.
 K1887.2 Deceptive nocturnal noise.
@@ -35959,7 +35959,7 @@ M301.0.2 Prophet speaks six nights each year.
 M301.1 Wild man as prophet.
 M301.2 Old woman as prophet.
 M301.2.1 Enraged old woman prophesies for youth.
-M301.2.2 Old Woman, "</i><i>völva", prophesies at child’s birth.
+M301.2.2 Old Woman, "völva", prophesies at child’s birth.
 M301.3 Druids as prophets.
 M301.4 Prophecies from old man who writes in a book.
 M301.5 Saints (holy men) as prophets.
@@ -35977,7 +35977,7 @@ M301.9.1 Fool (entertainer) as prophet.
 M301.10 Angels as prophets.
 M301.11 Spirit as prophet.
 M301.12 Three fates, "norns", prophesy at child's birth.
-M301.13 Icelandic guardian spirits, "</i><i>spádísar", prophesy victory.
+M301.13 Icelandic guardian spirits, "spádísar", prophesy victory.
 M301.14 Summoned dead prophesies.
 M301.15 Mountain in human shape prophesies whole family’s death.
 M301.16 Gods prophesy both good and evil about hero’s fate.
@@ -36327,7 +36327,7 @@ M411.8.5 Saint curses books hidden by inhospitable host: no man shall read them.
 M411.9 Giantess lays a curse on the one on earth who eventually hears her.
 M411.10 Curse by berserk, giant (ogre).
 M411.11 Curse by girl in revenge of the murdering of her foster father.
-M411.11.1 Curse by amazon, "</i><i>skjaldmær".
+M411.11.1 Curse by amazon, "skjaldmær".
 M411.12 Curse by witch.
 M411.13 Curse by thrall.
 M411.14 Curse by priest.
@@ -40127,7 +40127,7 @@ R222 Unknown knight.
 R224 Girl flees to escape incestuous brother.
 R225 Elopement.
 R225.1 Elopement on winged horse.
-R225.2 Lovers elope to prevent girl'</i><i>s marriage to undesired fiancé.
+R225.2 Lovers elope to prevent girl's marriage to undesired fiancé.
 R227 Wife flees from husband.
 R227.1 Wife flees from animal husband.
 R227.2 Flight from hated husband.
@@ -40875,7 +40875,7 @@ T56 Means of attracting sweetheart.
 T56.1 Bride attracted by music.
 T56.1.1 Bride attracted by flute.
 T56.2 Image of God of Love sent to fetch bride.
-T56.3 Forgotten fiancée sends lover false diamond inscribed with Christ</i><i>'s last words: "Oh Lord why hast Thou forsaken me?" Lover returns.
+T56.3 Forgotten fiancée sends lover false diamond inscribed with Christ's last words: "Oh Lord why hast Thou forsaken me?" Lover returns.
 T56.4 Beautiful woman enticed by wonderful flower.
 T57 Declaration of love.
 T57.1 Lover declares himself by showing her own reflection to his beloved.
@@ -41299,7 +41299,7 @@ T215.7.1 Wife alone does not desert leprous husband.
 T215.8 Woman sells her hair to feed starving husband.
 T216 Loathly bridegroom carried on back in basket by wife.
 T217 Wife refuses to become unfaithful although she knows her husband to be so.
-T221 Woman'</i><i>s naivité proves her fidelity.
+T221 Woman's naivité proves her fidelity.
 T222 Wife hides husband’s unfaithfulness from emperor and even shelters his mistress.
 T224 Husband tempted by own wife disguised in fine clothes: says he will touch no woman save his wife.
 T230.1 Wife and husband believe each unfaithful at the slightest provocation.
@@ -43406,7 +43406,7 @@ W33 Heroism.
 W33.1 Badly wounded warrior continues fighting.
 W33.2 Warrior refuses to delay battle in return for promise of long, happy life.
 W34 Loyalty.
-W34.1 Man constrained to flee with leader'</i><i>s fiancée resists her blandishments.
+W34.1 Man constrained to flee with leader's fiancée resists her blandishments.
 W34.2 Loyal friends refuse to fight against disgraced comrade.
 W34.3 Cowardly to leave battle while lord is alive.
 W34.4 Fakir rewarded by prince with a life of luxury in city chooses to return to his monkey friends in jungle.
