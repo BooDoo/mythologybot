@@ -89,7 +89,7 @@ def mutate(motif, verbose=False, index=None):
             if verbose:
                 print("Motif is not a good candidate for mutation:\n\t%s" % body)
             else:
-                print(".", end="")
+                print(".", end=""); sys.stdout.flush();
             return None
         new_motif = body
 
@@ -109,13 +109,19 @@ def mutate(motif, verbose=False, index=None):
             return None
         new_motif = "%s %s" % (index, new_motif)
         if not verbose:
-            print(".", end="")
+            print(".", end=""); sys.stdout.flush();
         return new_motif
     except:
         return None
 
-def make_new_motifs(count=1, fileout=None, wipe=False, verbose=False):
-    old_motifs = sample(all_motifs, count)
+def make_new_motifs(count=1, fileout=None, wipe=False, verbose=False, everything=False, offset=None):
+    if everything:
+        old_motifs = all_motifs
+    elif offset is not None:
+        old_motifs = all_motifs[offset:offset+count]
+    else:
+        old_motifs = sample(all_motifs, count)
+
     new_motifs = list(mutate(m, verbose) for m in old_motifs)
 
     # remove bad motifs:
@@ -145,16 +151,20 @@ if __name__ == '__main__':
             help="readlines from given file")
     parser.add_argument("-c", "--count", type=int, default=1,
             help="generate this many mutated motifs")
+    parser.add_argument("-s", "--start", type=int, default=None,
+            help="offset to work from in motif file")
     parser.add_argument("-v", "--verbose", action="store_true",
             help="verbose stdout printing")
     parser.add_argument("-w", "--wipe", action="store_true",
             help="wipe out contents of outfile instead of appending")
+    parser.add_argument("-e", "--everything", action="store_true",
+            help="Run through every line from infile, not a random sample.")
     args = parser.parse_args()
 
     if args.verbose:
-        print("Mutating %s motifs from %s and writing out to %s" % (args.count, args.infile, args.outfile))
+        print("Mutating %s motifs from %s and %s writing out to %s" % ("ALL" if args.everything else args.count, args.infile, "OVER" if args.wipe else "",args.outfile))
     else:
-        print("Mutating %s motifs..." % args.count)
+        print("Mutating %s motifs..." % "ALL" if args.everything else args.count)
 
     all_motifs = populate_motifs(args.infile)
 
@@ -162,4 +172,4 @@ if __name__ == '__main__':
     nlp = init_nlp(entity=False,matcher=False,serializer=False)
 
     print("Making motifs:")
-    make_new_motifs(args.count, args.outfile, args.wipe, args.verbose)
+    make_new_motifs(args.count, args.outfile, args.wipe, args.verbose, args.everything, args.start)
