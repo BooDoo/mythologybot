@@ -3167,7 +3167,6 @@ A1542.2.1 Origin of crocodile dance.
 A1543 Origin of religious songs (chants).
 A1543.1 Origin of the death chant.
 A1544 Origin of religious images (idols).
-A1544.0.1 Why Jews do not worship idols.
 A1545 Origin of sacrifices.
 A1545.1 Regulations for sacrifices.
 A1545.2 Animal substituted for human sacrifice.
@@ -3188,7 +3187,6 @@ A1546.2 Origin of worship of particular god(s).
 A1546.3 Origin of Christian worship.
 A1546.3.1 First convert to Christianity in Ireland.
 A1546.3.2 First monk, first pilgrim.
-A1546.4 Origin of Jewish worship.
 A1546.5 Origin of worship from holy books.
 A1546.6 Origin of fire worship.
 A1546.7 Origin of animal worship.
@@ -3315,7 +3313,6 @@ A1611.5.4.2 Origin of the Maic Milid (Milesians, Gaels).
 A1611.5.4.3 Origin of the Tuatha Dé Danann regarded as an early tribe.
 A1611.6 Origin of various Near Eastern peoples.
 A1614 Origin of white and colored races.
-A1614.1 Negroes as curse on Ham for laughing at Noah’s nakedness.
 A1614.1.1 Origin of luchrupain (leprechauns, dwarfs, pygmies) from curses of Ham.
 A1614.1.2 Origin of "goat-heads" from curse of Ham.
 A1614.2 Races dark-skinned from bathing after white men.
@@ -3325,7 +3322,6 @@ A1614.4.1 Origin of tribes from kinds of meat they choose.
 A1614.4.1.1 Origin of race colors from eating of ox.
 A1614.4.2 Origin of different peoples according to choice of chairs.
 A1614.4.3 Origin of different peoples according to choice of bows and arrows or else guns, horses and cattle.
-A1614.5 Negroes made from left-over scraps at creation.
 A1614.6 Origin of light and dark skin color.
 A1614.7 Indians and whites from different legs of first man.
 A1614.8 Black tribe because woman is put on fire.
@@ -3358,10 +3354,7 @@ A1654.2 Origin of diviners.
 A1655 Origin of peasantry.
 A1655.1 Why peasant is always busy: he is eager to produce food for all living beings.
 A1656 Origin of noblemen.
-A1656.1 Origin of Polish noblemen: from wheat dough that a bitch devours.
-A1657 Origin of slaves.
 A1657.1 Origin of subject tribes (aithech-thuatha).
-A1657.2 Origin of the Fir Bolg ("Men of the Sacks"); so-called because as slaves they were forced to carry earth in sacks (builg).
 A1658 Origin of professional warriors.
 A1658.1 Origin of fiana (bands of professional warriors).
 A1659 Origin of different classes--miscellaneous.
@@ -3370,38 +3363,21 @@ A1659.1.1 Fomorians descended from Ham (or Cain).
 A1661 Hair and beard of various peoples.
 A1661.1 How the white man got his beard.
 A1661.2 Why the white man has short hair.
-A1661.3 Why Canaanites have curly hair.
 A1662 Peculiar smell of body.
-A1662.1 Why Jews smell bad.
 A1663 Heads of various people.
 A1663.1 Why Babylonians are round headed.
 A1664 Beauty of various peoples.
 A1665 Feet of various peoples.
-A1665.1 Why Africans have bad feet.
 A1666 Eyes of various peoples.
-A1666.1 Why Canaanites have red eyes.
-A1666.2 Why Palmyrenes have narrow eyes.
 A1667 Intelligence of various people.
-A1667.1 Why Europeans know more than natives.
 A1671 Tribal characteristics--labor.
-A1671.1 Why the negro works.
 A1673 Tribal characteristics--industry.
-A1673.1 Why the Haidas surpass in certain industries.
 A1674 Tribal characteristics--stealing.
-A1674.1 Why it is not a sin for a Gypsy to steal: helpful at crucifixion.
-A1674.2 Why Russians like thefts and robberies.
 A1675 Tribal characteristics--warfare.
 A1676 Tribal characteristics--bravery or cowardice.
-A1676.1 Why the Chittagongs are not as brave as they used to be.
 A1681 Tribal characteristics--eating.
-A1681.1 Why Indians chew spruce gum.
-A1681.2 Why Jews do not eat pork.
-A1681.3 Why the Muria eat snakes.
-A1681.4 Why the Agaria eat rats.
 A1683 Tribal characteristics--dress.
-A1683.1 Why Russians wear their shirts outside their breeches.
 A1683.1.1 Why Russians wear red shirts.
-A1683.2 Why a certain tribe wear clothes like dogs (supposed descendants of a bitch mother).
 A1683.3 Origin of custom of wearing mantles.
 A1683.4 Why certain peoples go nude.
 A1683.4.1 Why Canaanites go nude.
@@ -3412,17 +3388,10 @@ A1689 Other origins and originators.
 A1689.1 Why Bhuiya yoke the cow and the bullock together to the plough.
 A1689.2 Why Agaria are not afraid of fire.
 A1689.3 Why the Gond and Baiga are omnivorous.
-A1689.4 Why Saora wave axes and swords and shout while dancing.
 A1689.5 Why the Kamar offer liquor to gods and spirits.
-A1689.6 Why Jews read and write from right to left: because of the ugly name of the king of the Jews.
 A1689.7 Origin of the Russian calendar.
-A1689.8 Why Chapperbands coin false money for a living.
-A1689.9 Why Chenchu women are ugly.
 A1689.10 Why the Agaria are cultivators.
-A1689.11 Why one people is superior in power to another.
-A1689.11.1 English more powerful than Hindus since latter were late at distribution of qualities.
 A1689.12 Why Egyptians are fond of asses.
-A1689.13 Why Jews keep aloof from other peoples.
 A1691 Differentiation between "free" (saer) and "unfree" (daer).
 A1701 Creation of animals by God.
 A1702 Creation of animals by creator.
@@ -3439,7 +3408,6 @@ A1714.3.1 Buffaloes emerge from earth, the first man holding the tail of last on
 A1715 Animals from transformed man.
 A1715.1 Animals from Pharaoh’s drowned army.
 A1715.2 Animals from men transformed for discourtesy to God (Jesus).
-A1715.3 Seven whistlers are the souls of the Jews who crucified Christ.
 A1715.4 Animals from transformed men according to favorite food.
 A1715.5 Animals from transformed survivors of shipwreck.
 A1716 Animals from transformed ogre or giant.
@@ -3457,10 +3425,10 @@ A1731 Creation of animals as punishment for beating forbidden drum.
 A1732 Creation of animals to take revenge.
 A1733 Creation of animals as punishment for incest.
 A1734 Animals from frogs sent as one of Egypt's plagues.
-A1751 The devil’s animals and God's.
+A1751 The devil's animals and God's.
 A1751.1 Mouse created by Lucifer; cat by Michael to destroy mouse.
 A1755 Devil's unsuccessful creation produces certain animals.
-A1756 Devil produces animals only in God’s name.
+A1756 Devil produces animals only in God's name.
 A1757 Dualism of animal creation.
 A1758 Animals created while god Mahadeo quarrels with his wife.
 A1771 Animals from mating of sun and moon.
@@ -5578,7 +5546,6 @@ A2831 Origin of demons.
 A2834 Origin of fish drug.
 A2847 Origin of scum on stagnant water.
 A2849 Miscellaneous origins.
-A2849.1 Miscellaneous Jewish origins.
 A2851 The four characteristics of wine.
 A2853 Why sexes differ in form and temperament.
 A2854 Why men like tobacco, but spit when smoking.
@@ -8576,7 +8543,6 @@ C243 Tabu: eating food of transformed husband.
 C243.1 Tabu: eating food of supernatural lover.
 C245 Tabu: eating food birds have pecked at.
 C246 Tabu: eating with person of certain caste.
-C246.1 Tabu: Jews eating with heathen.
 C246.2 Tabu: eating special food of noble girl.
 C247 Tabu: eating food laid on the grave.
 C248 Tabu: eating food kept for animals.
@@ -9396,7 +9362,6 @@ D28 Transformation into giant.
 D29 Transformation to a person of different social class--miscellaneous.
 D29.1 Transformation into a churl (bachlach).
 D29.2 Transformation into juggler.
-D31 Transformation: white person to negro.
 D40.1 Transformation to likeness of person whose shield one carries.
 D40.2 Transformation to likeness of another woman.
 D40.2.1 Transformation to resemble man’s mistress so as to be able to kill him.
@@ -12632,7 +12597,6 @@ D1380.7 Magic soot protects.
 D1380.8 Magic ashes protect.
 D1380.9 Magic earth (dirt) protects.
 D1380.10 Magic string protects.
-D1380.11 Magic jewel protects (Cf.
 D1380.12 Magic bedstead protects from harm.
 D1380.13 Magic story protects.
 D1380.14 Magic poems protect.
@@ -14332,7 +14296,6 @@ D1610.33 Speaking cliffs (Cf.
 D1610.34 Speaking musical instrument.
 D1610.34.1 Fiddle made from wood secret has been confided to reveals it.
 D1610.34.2 Speaking flute.
-D1610.34.3 Speaking Jew's harp.
 D1610.35 Speaking river.
 D1610.36 Speaking water.
 D1611 Magic object answers for fugitive.
@@ -18393,7 +18356,6 @@ E755.1 Souls in heaven.
 E755.1.1 Heavenly hierarchy.
 E755.1.2 River in heaven burns wicked and gives joy to righteous.
 E755.1.3 Souls on way to heaven pass through Garden of Eden.
-E755.1.4 Sixty thousand Jewish souls in heaven.
 E755.2 Souls in hell (Hades).
 E755.2.0.1 Souls leave hell on Sundays.
 E755.2.1 Souls of drowned in heated kettles in hell.
@@ -18966,7 +18928,7 @@ F163.1.5 Castles thatched with silver in otherworld.
 F163.2 Church (chapel) in otherworld.
 F163.2.1 Temple in otherworld.
 F163.2.1.1 Temple of jewels in otherworld.
-F163.2.2 Fiery temple in otherworld: Jewish: Neuman.
+F163.2.2 Fiery temple in otherworld.
 F163.3 House in otherworld.
 F163.3.1 House of gold and crystal in otherworld.
 F163.3.2 House of silver in otherworld.
@@ -20736,7 +20698,6 @@ F455.11 Offspring of trolls.
 F456 Mine spirits.
 F456.1 Knockers (Tommy Knockers, spriggins).
 F456.1.1 Origin of knockers or spriggins.
-F456.1.1.1 Knockers as ghosts of Jews who crucified Christ and who were forced to work Cornish tin mines as punishment.
 F456.1.1.2 Knockers as ghosts of giants who formerly lived in area.
 F456.1.1.3 Knockers as spirits of dead miners.
 F456.1.2 Actions of knockers.
@@ -20753,8 +20714,6 @@ F456.1.2.2.3 Knockers test entries and supports by tapping them with hammers.
 F456.1.2.2.4 Knockers appear to miners before accidents occur: the sight of one serves as a warning to leave mine.
 F456.1.2.3 Other actions of knockers.
 F456.1.2.3.1 Knockers hold midnight mass deep in mines on Christmas Eve.
-F456.1.2.3.2 Knockers (ghosts of Jews) are compelled to sing carols in mines at Christmastime.
-F456.1.2.3.3 Knockers refrain from work on Saturdays and other Jewish holidays.
 F456.2 Mining spirit: "Bluecap."
 F456.2.1 Bluecap moves coal-tubs for miners.
 F456.3 Mining spirit: "Cutty Soams".
@@ -21737,7 +21696,6 @@ F571.6 King so old that he cannot get on horseback without help.
 F571.7 Person hundreds of years old.
 F571.8 Man lives for nine generations.
 F572 Dancers upon whom icicles hang.
-F573 Negro so black that he makes whole garden somber.
 F574 Luminous person.
 F574.1 Resplendent beauty.
 F574.1.1 Woman’s beauty burns onlooker.
@@ -23866,7 +23824,6 @@ G11.1 Cannibal dwarfs.
 G11.2 Cannibal giant.
 G11.2.1 Giant devours any person who fails to do his bidding.
 G11.3 Cannibal witch.
-G11.4 Negro cannibal.
 G11.5 Water cannibal.
 G11.6 Man-eating woman.
 G11.6.1 Female ogre changes men into tigers and eats women.
@@ -24606,7 +24563,6 @@ G303.3.1.12.4 Devil appears as old woman to seduce monk from cloister.
 G303.3.1.12.5 Devil (in queen’s form) insatiable, although she copulates with all men and horses.
 G303.3.1.13 Devil as cook.
 G303.3.1.14 Devil as student.
-G303.3.1.15 Devil appears as a Jew.
 G303.3.1.16 Devil appears as a child.
 G303.3.1.17 Devils appear as ladies and gentlemen.
 G303.3.1.18 Devil as shoemaker.
@@ -24904,7 +24860,6 @@ G303.9.5.3 Devil compels two miners to follow him.
 G303.9.5.4 Devil carries man through air as swift as wind (thought).
 G303.9.5.5 Devil combs Mme.
 G303.9.5.6 Man temporarily abducted by devil.
-G303.9.5.7 Devil carries a Jew to hell.
 G303.9.5.8 Devil takes violinist when he needs a good fiddler in hell.
 G303.9.6 The devil fights.
 G303.9.6.0.1 The devil is armed.
@@ -25084,7 +25039,6 @@ G303.16.19.2 Devil goes with one if one spits on old castaway brooms.
 G303.16.19.3 One is freed if he can set a task the devil cannot perform.
 G303.16.19.3.1 Task for devil: sweeping and winnowing peas on ice.
 G303.16.19.3.2 Task for devil: making needles.
-G303.16.19.3.3 Task for devil: washing a Jew (Jewess), to rid him (her) of the evil smell.
 G303.16.19.4 Devil (Satan) flees when cock is made to crow.
 G303.16.19.4.1 Man imitates cock crowing: devil is deceived.
 G303.16.19.5 Demon has to serve girl whom he cannot persuade to break vow of chastity.
@@ -26649,7 +26603,6 @@ H604 Symbolic meaning of spiced and bitter tongue served at dinner.
 H605 Angel gives symbolic interpretation of value of work as well as of prayer.
 H606 Symbolic interpretation of sin.
 H607 Discussion by symbols.
-H607.1 Discussion between priest and Jew carried on by symbols.
 H607.2 Discussion between two poets (sages?) carried on in poetic obscure language.
 H607.2.1 Learned professor from one university examines by signs a professor at another university (actually shoemaker or miller or the like).
 H607.3 Princess declares her love through sign language: not understood.
@@ -28783,7 +28736,6 @@ J495 Monk chooses solitude and loneliness to company and temptation.
 J496 Choice of friend over mistress.
 J497 Eagle prefers own offspring to changeling.
 J511 One should not attempt to change his color.
-J511.1 Negro tries in vain to be washed white.
 J512 Animal should not try to change his nature.
 J512.1 Crab comes ashore: killed by fox.
 J512.2 Kite tries to neigh like a horse.
@@ -30688,7 +30640,6 @@ J2012.4 Fool in new clothes does not know himself.
 J2012.5 Man does not know himself from another identically clad.
 J2012.6 Fool at baths believes he is someone else.
 J2013 Man made to believe that he is someone else.
-J2013.1 White man made to believe that he is a negro.
 J2013.2 Man made to believe that he is a dog.
 J2013.3 Pumpkin tied to another's leg.
 J2013.4 Numskull made to believe he is an evil spirit.
@@ -31247,7 +31198,6 @@ J2332 Fool locked in dark room made to believe that it is continuous night.
 J2333 The sledges turned in the direction of the journey.
 J2334 Master persuaded to buy big fish since small ones creep out of all parts of his body.
 J2335 The stag with iron shoes.
-J2336 Jewess makes parents believe that she is to give birth to the Messiah.
 J2337 Dupe persuaded that he is invisible.
 J2338 Adulteress makes husband believe that the birth of her mulatto child has been due to suggestion.
 J2341 Near-sighted man persuaded by doctor that he can see.
@@ -31304,7 +31254,6 @@ J2377 The philosophical watchman.
 J2378 What will the robber do?
 J2381 Question: did the man ever have a head?
 J2382 How did the cow get on the pole?
-J2383 Pity for the poor Jews.
 J2387 How blind men get about.
 J2391 Experiment in gravity.
 J2401 Fatal imitation.
@@ -32897,7 +32846,6 @@ K606.1.1 Escape by playing magic music.
 K606.1.2 Escape by playing sleep-bringing music.
 K606.1.2.1 Escape by singing watchmen to sleep.
 K606.1.3 Musician in hell playing for the devils, purposely breaks fiddle strings.
-K606.1.4 Witch put off guard by playing on jew’s harp.
 K606.2 Escape by persuading captors to dance.
 K607 Enemy in ambush (or disguise) deceived into declaring himself.
 K607.1 The cave call.
@@ -33765,7 +33713,6 @@ K1317.5 Woman substitutes for her daughter in the dark.
 K1317.6 Use of drugs to usurp lover’s place.
 K1317.6.1 Woman drugs sister and substitutes for her with lover.
 K1317.7 Woman mistakes passer-by for lover.
-K1317.8 Moorish (black) girl substituted for mistress (in the dark).
 K1317.9 Man intercepts love letter and takes lover's place in elopement.
 K1317.10 Devil comes to rendezvous instead of woman’s lover.
 K1318 Trickster shifts married couples in bed.
@@ -35175,7 +35122,6 @@ K2259.3 Treacherous potter.
 K2259.4 Treacherous sailor.
 K2260.1 Treacherous dark man.
 K2260.2 Treacherous dark woman.
-K2261 Treacherous negro (Moor).
 K2261.1 Treacherous gypsy.
 K2262 Treacherous charcoal-burner.
 K2265 Treacherous red knight.
@@ -35851,7 +35797,6 @@ M211.1 Man unwittingly sells soul to devil.
 M211.1.1 Man goes to well at midnight on Old Christmas to see water turned into wine.
 M211.2 Man sells soul to devil in return for devil's building house (barn, etc.).
 M211.3 Man bequeaths soul to devil.
-M211.4 Jews must repay devil’s help by giving tribute of persons each year.
 M211.5 Formulas for selling one's soul to
 M211.6 Man sells soul to devil for visit home in boat that sails through sky.
 M211.7 Man sells soul to devil for magic power to escape capture.
@@ -35970,7 +35915,7 @@ M301.6.1 Banshees as portents of misfortune.
 M301.7 Biblical worthy as prophet.
 M301.7.1 Moses as prophet.
 M301.7.2 David as prophet.
-M301.7.3 Abraham as prophet. Jewish: *Neuman.
+M301.7.3 Abraham as prophet.
 M301.8 Personification prophesies.
 M301.9 Half-wit as prophet.
 M301.9.1 Fool (entertainer) as prophet.
@@ -37878,7 +37823,7 @@ P317 Refusal to believe that a friend has spoken ill of one.
 P317.1 Refusal to believe that a friend will harm one.
 P318 Man refuses to follow friend in wicked conduct.
 P319 Deeds of friendship--miscellaneous.
-P319.1 Two friends captured by Moors have money to ransom only one.
+P319.1 Two friends captured have money to ransom only one.
 P319.2 Man who has counseled friend in assassination asks to be killed on the other’s body.
 P319.3 Friend's intercession saves man from execution.
 P319.4 The sacred partnership.
@@ -38241,7 +38186,6 @@ P711.7 Aristotle rises from sick bed to rush into battle for his country.
 P711.8 Aversion to burial in foreign soil.
 P711.9 Patriotism: king learning that nation will triumph whose king dies in battle, allows self to be killed.
 P715 Particular nations (races).
-P715.1 Jews.
 P721 Diseases (plague) invoked to combat overpopulation.
 Q1 Hospitality rewarded--opposite punished.
 Q1.1 Gods (saints) in disguise reward hospitality and punish inhospitality.
@@ -38368,7 +38312,6 @@ Q87.1.3 Spurned suitor is offered girl by her mother.
 Q87.2 Courtier rewarded for resisting princess's advances.
 Q87.3 Reward for long-suffering nun: made abbess of convent.
 Q88 Reward for proficiency.
-Q88.1 Fra Lippo Lippi is freed by Moors because of his greatness as a painter.
 Q88.2 Princess kisses ugly poet while he sleeps.
 Q91 Reward for cleverness.
 Q91.1 Princess given in marriage to clever thief.
@@ -38611,7 +38554,6 @@ Q228 Punishment for trying to harm sacred animal.
 Q231 Brahmin punished for killing animal.
 Q232 Punishment for change of religious faith.
 Q232.1 Pagan punished by fellows for conversion to Christianity.
-Q232.2 Punishment of Jew for apostasy.
 Q232.2.1 Punishment for leaving Palestine.
 Q233 Punishment for yielding to temptation by the devil.
 Q235 Cursing punished.
@@ -39256,7 +39198,6 @@ Q501.7.1 Salt food without drink as punishment for man who accepts Christianity.
 Q501.8 Ceaseless humming (singing) as punishment for immoderate request.
 Q501.9 Spirit in hell must bathe people endlessly.
 Q502 Wandering as a punishment.
-Q502.1 The Wandering Jew.
 Q502.2 Punishment: wandering till iron shoes are worn out.
 Q502.3 Tribe’s long wandering in wilderness as punishment.
 Q503 Wandering after death as punishment.
@@ -40176,7 +40117,6 @@ R311.4 Stretching tree refuge for fugitive.
 R312 Forest as refuge.
 R312.1 Forest as refuge of eloping lovers.
 R313 Princess hides in straw.
-R314 Negro takes refuge under princess’s throne.
 R315 Cave as refuge.
 R315.1 Cave as eloping lovers' refuge.
 R315.2 Christians crushed in cave where they take refuge from heathen.
@@ -41988,7 +41928,6 @@ T579.8 Signs of pregnancy.
 T579.8.1 Transparent body of pregnant woman.
 T579.8.2 Girl paints face because pregnant.
 T579.8.3 Girl betrays pregnancy by dropping milk on brother.
-T580.1 Jewess must entreat Virgin before she can bear her child.
 T581 Place and conditions of childbirth.
 T581.1 Birth of child in forest.
 T581.2 Child born of woman abandoned in pit.
@@ -42513,7 +42452,6 @@ V34.2 Princess sick because toad has swallowed her consecrated wafer.
 V34.3 Man who has received sacrament overcomes enemy, a blasphemer.
 V34.4 Clothes of knight who kneels in mud before host as it passes miraculously kept clean.
 V35 The stolen sacrament.
-V35.1 Jews bribe woman to steal host for them: miraculous manifestations.
 V35.1.1 Horse kneels before stolen sacrament.
 V35.1.2 Sacred image miraculously appears on stolen sacrament.
 V35.2 Stolen sacred hosts put into coffin.
@@ -43079,12 +43017,10 @@ V264 Virgin Mary rescues man attacked by the devil.
 V264.1 Virgin Mary brings man a pact he signed with the devil and frees the man from devil’s power.
 V265 Virgin miraculously prevents nun (monk) from deserting cloister.
 V265.1 Image of Virgin tries in vain to keep nun from leaving convent.
-V266 Virgin Mary converts a Jew.
 V267 Devotee of Virgin is comforted in the hour of death.
 V268 Miracles performed under protection of Virgin Mary.
 V268.1 Boy under protection of Virgin Mary pulled from well alive after a week.
 V268.2 Virgin Mary saves devotee from death in waves.
-V268.3 Virgin Mary destroys Moorish army besieging Constantinople.
 V268.4 Virgin Mary saves devotee's son from shipwreck.
 V268.5 Image of Virgin Mary works miracles.
 V271 Virgin Mary as foster mother.
@@ -43149,8 +43085,6 @@ V331.10.1 Conversion to Christianity through show of forgiveness and gentleness.
 V332 Baptism of heathen.
 V336 Conversion to Judaism.
 V341 Pagan sybil draws picture of Madonna and Child in sand.
-V342 Sign of cross intimidates Jews.
-V343 Jews protesting against marriage of Jewess and Christian are struck dumb.
 V344 Temple about to be taken over by pagans saved by appearance of a Sign of the Cross (image of the Virgin).
 V345 Dove flies out of man's mouth.
 V346 Skeptic kicked by sacrificial animal.
@@ -43171,13 +43105,7 @@ V356 Christian hero (saint) overthrows heathen idols.
 V356.1 Saint dispels pagan devils from ancient shrines.
 V356.2 Pagan shrines and idols, or magic books destroyed by fire from heaven.
 V356.2.1 Heathen idols sink into earth up to their necks through power of saint.
-V356.3 Saint’s bachall pointed at idol defaces it.
-V361 Christian child killed to furnish blood for Jewish rite.
-V362 Plague from Jews’ poisoning wells.
-V363 Jewish child thrown into oven by father for taking eucharist.
-V363.1 Jewish child resurrected (saved by power of Virgin Mary) after being burned to ashes for eating consecrated bread in Christian church.
-V364 A Christianized Jew becomes a priest.
-V365 Jewish traditions concerning non-Jews.
+V356.3 Saint's bachall pointed at idol defaces it.
 V381 Heathen beats his god because of misfortune.
 V382 Doctor ridicules belief in Devil, Heaven, and Hell.
 V383 Religious fanaticism.
@@ -43618,7 +43546,6 @@ W154.15 Kind magistrate is victim of ingratitude.
 W154.16 Ruler persecutes his friends and is kind to his enemies.
 W154.17 Man beheads rescuer for leaving him so long in pain.
 W154.18 Man ungrateful for life saved because rescuer helped others also.
-W154.19 Ungrateful Jew steals horse of Christian who has lent it to him.
 W154.20 Man beats people bearing him gifts.
 W154.21 Workers (builder) killed when secret building or grave is finished.
 W154.22 Person compared to nettle, which stings the hand that protects it.
@@ -43863,8 +43790,6 @@ X551 Jokes on freemasons.
 X583 Jokes about travelers.
 X584 Jokes about hunters.
 X584.1 Man chased by bear to camp claims that he brought it in thus since he did not want to carry it.
-X611 How the Jews were drawn from heaven.
-X613 Trickster breaks up Jewish marriage ceremony and seduces the bride.
 X651 Battle between lice of Strassburg and of Hungary.
 X652 Learning the Bavarian language.
 X661 Why Arabians are liars.
