@@ -33789,7 +33789,6 @@ K1349.7 Man burns down own neighboring house to gain access to bedroom of belove
 K1349.8 Entrance into woman’s room through concealed door.
 K1349.9 Trickster pretends to seek lost ball by woman's bed: seduces her.
 K1349.10 Admission to woman’s room by means of cap of invisibility.
-K1351 The weeping bitch.
 K1352 Death feigned to woo maiden.
 K1353 Woman deceived into sacrificing honor.
 K1353.1 Trickster offers food for woman's favors which will completely satisfy him.
