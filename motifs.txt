@@ -6403,13 +6403,11 @@ B182.1.0.1.1 Magic lap-dog.
 B182.1.0.2 Magic dog transformed person.
 B182.1.0.3 Magic dog transformed supernatural being.
 B182.1.1 Magic dog vomits any liquor required of him.
-B182.1.2 Magic hostile bitches issue from elf-mound.
 B182.1.3 Dog sight of which renders game helpless.
 B182.1.3.1 Magic whelp kills hound by springing down its throat.
 B182.1.4 Dog that is hound by night and sheep by day.
 B182.1.5 Dog that is hound by day and flame of fire by night.
 B182.1.6 Magic dog fragrant.
-B182.1.7 Magic bitches (in human form) enchanted by fairy music.
 B182.1.8 Magic brazen dog.
 B182.2 Magic bear.
 B183 Magic quadrupeds--rodentia.
@@ -7025,7 +7023,6 @@ B297.1 Animal plays musical instrument.
 B297.1.1 Bird plays timpan.
 B297.1.2 Toad and chameleon play drum and xylophone.
 B297.2 Transformed women enchanted by music.
-B297.2.1 Women transformed to bitches enchanted by music.
 B298 Animal plays game.
 B298.1 Monkey plays chess.
 B299 Other animals with human traits--miscellaneous.
@@ -7111,7 +7108,6 @@ B335.2 Life of helpful animal demanded as cure for feigned sickness.
 B335.3 Unsuccessful attempt by enemy to kill helpful animal.
 B335.4 Wife demands magic parrot who has accused her.
 B335.5 Faithful animal killed in battle.
-B335.6 A small animal (hare, bitch) gives timely warnings to the hero about the trap prepared by his enemy.
 B335.7 Helpful cow to be killed because of refusal to help stepdaughter.
 B336 Helpful animal killed (threatened) by ungrateful hero.
 B338 Weapons made from bones of helpful horse.
@@ -7418,7 +7414,6 @@ B527.1 Fish promises to spare man in coming flood.
 B527.2 Helpful animal stops leak in Noah’s Ark.
 B527.3 Owl saves man from drowning: flaps wings to call attention to direction of land.
 B529 Animal saves person's life--miscellaneous.
-B529.1 Animals (sow, bitch, mare) hide boy in their belly to protect him.
 B529.2 Dragon swallows arrow (thunderbolt) intended for hero.
 B530.1 Mythical frog as host to woman.
 B530.2 Elephants look after ascetic in jungle.
@@ -9512,7 +9507,6 @@ D136 Transformation: man to swine.
 D141 Transformation: man to dog.
 D141.0.1 Kynanthropy.
 D141.0.2 Men and women transformed to dogs by druidic spell.
-D141.1 Transformation: woman to bitch.
 D141.1.1 Transformation: girl to puppy.
 D142 Transformation: man to cat.
 D142.0.1 Transformation: woman to cat.
@@ -9764,7 +9758,6 @@ D334 Transformation: goat to person.
 D336 Transformation: swine to person.
 D336.1 Transformation: pig to person.
 D341 Transformation: dog to person.
-D341.1 Transformation: bitches to women.
 D342 Transformation: cat to person.
 D352 Transformation: falconiform to person.
 D352.1 Transformation: hawk to person.
@@ -17245,7 +17238,6 @@ E439.2 Dwarfs magically keep ghosts from rising.
 E439.3 Dog saves man from malevolent living corpse.
 E439.4 Seeds of poppy poured into revenant’s mouth.
 E439.5 Revenant forced away by fire.
-E439.6 Ghosts cannot come near spayed bitch.
 E439.7 Ghost will not approach a light left burning.
 E439.8 Ghost will vanish if seer walks around it nine times.
 E439.9 Ghost will not return if door is removed and hung backwards.
