@@ -5,3 +5,4 @@ TWEET=$(awk NR==$((${RANDOM} % `wc -l < motifs.txt` + 1)) motifs.txt | sed -r 's
 echo Should tweet\n $TWEET;
 twurl set default MythologyBot
 twurl tweet -d "status=$TWEET" /1.1/statuses/update.json;
+curl -H "Authorization: Bearer $MYTHOLOGYBOT_MASTODON" -d "status=$TWEET" https://botsin.space/api/v1/statuses
