@@ -80,11 +80,11 @@ def mutation_candidates(tokens):
     return list(t for t in tokens if not (t.is_stop or t.is_punct))
 
 def get_mutation_substitute(w):
-    return choice(find_similar(w, 8, 25)).orth_
+    return choice(find_similar(w, 4, 30)).orth_
 
 def ok_to_tweet(m):
     # too long to tweet?
-    if len(m) > 140:
+    if len(m) > 200:
         return False
     # any words that aren't real?
     # elif any([w.is_oov for w in nlp(m)]):
