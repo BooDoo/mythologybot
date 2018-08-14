@@ -1,0 +1,3 @@
+wordfilter==0.2.6.2
+numpy==1.15.0
+spacy==2.0.12

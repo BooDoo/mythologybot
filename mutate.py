@@ -1,17 +1,19 @@
 #!/usr/bin/env python3
 
 import os, sys, random, json, re
+import datetime
+import wordfilter
 import spacy
 from random import choice, sample
 from numpy import dot
 from numpy.linalg import norm
-from spacy.en import English
 
-global nlp, all_words, all_motifs
+global nlp, all_words, all_motifs, _similars, SPACY_MODEL
 nlp = None; all_words = None; all_motifs = None
 
-# with open('primary_indices.json') as indices:
-#     primary_indices = json.load(indices)
+# You can change your desired SpaCy model here:
+SPACY_MODEL ='en_vectors_web_lg'
+
 def populate_motifs(infile="motifs.txt"):
     global all_motifs
     with open(infile) as f:
@@ -23,15 +25,20 @@ cosine = lambda v1, v2: dot(v1, v2) / (norm(v1) * norm(v2))
 vector_similarity = lambda w, target: -1 * cosine(w.vector, target)
 
 def init_nlp(**kwargs):
-    global nlp, all_words
-    nlp = nlp or English(**kwargs)
-    # custom stop words:
-    # TODO: why isn't this working?
-    nlp.vocab['\'s'].is_stop = True
-    nlp.vocab['St.'].is_stop = True
+    global nlp, all_words, _similars
+    nlp = nlp or spacy.load(SPACY_MODEL)
+    _similars = {}
 
-    # gather all known words, take only lowercased versions
-    all_words = list({w for w in nlp.vocab if w.has_vector and w.orth_.islower()})
+    # stop words from spacy.en:
+    stop_words = ['other', 'she', 'alone', 'hers', 'enough', 'becoming', 'amount', 'himself', 'such', 'sometime', 'noone', 'though', 'thereupon', 'wherever', 'will', 'now', 'therefore', 'forty', 'name', 'whom', 'often', 'unless', 'this', 'whether', 'nothing', 'well', 'along', 'from', 'on', 'should', 'hundred', 'much', 'seems', 'wherein', 'beyond', 'used', 'you', 'except', 'so', 'top', 'even', 'without', 'give', 'and', 'whoever', 'about', 'nor', 'which', 'together', 'an', 'everyone', 'below', 'itself', 'doing', 'mostly', 'many', 'else', 'already', 'elsewhere', 'whereupon', 'were', 'using', 'until', 'mine', 'made', 'nobody', 'some', 'down', 'toward', 'with', 'out', 'has', 'although', 'their', 'sixty', 'somehow', 'full', 'next', 'between', 'by', 'yourselves', 'throughout', 'few', 'own', 'hereafter', 'up', 'done', 'indeed', 'anywhere', 'then', 'latter', 'our', 'same', 'over', 're', 'not', 'regarding', 'nowhere', 'really', 'former', 'any', 'through', 'they', 'whole', 'becomes', 'around', 'yet', 'less', 'is', 'these', 'whatever', 'otherwise', 'as', 'anything', 'among', 'have', 'however', 'go', 'afterwards', 'since', 'still', 'can', 'beforehand', 'everywhere', 'why', 'seem', 'because', 'last', 'due', 'had', 'get', 'while', 'all', 'him', 'who', 'most', 'to', 'only', 'serious', 'meanwhile', 'are', 'show', 'several', 'at', 'might', 'onto', 'anyone', 'her', 'hereby', 'seemed', 'am', 'again', 'move', 'therein', 'than', 'did', 'very', 'it', 'anyhow', 'both', 'please', 'i', 'make', 'more', 'no', 'off', 'various', 'been', 'thereby', 'against', 'whence', 'third', 'there', 'ever', 'sometimes', 'every', 'take', 'we', 'say', 'each', 'also', 'what', 'me', 'us', 'anyway', 'none', 'per', 'thru', 'his', 'moreover', 'a', 'perhaps', 'how', 'yours', 'besides', 'whenever', 'empty', 'least', 'under', 'he', 'back', 'myself', 'namely', 'first', 'herself', 'into', 'someone', 'quite', 'never', 'always', 'here', 'via', 'cannot', 'must', 'ca', 'would', 'nevertheless', 'above', 'front', 'part', 'became', 'yourself', 'after', 'everything', 'your', 'somewhere', 'before', 'too', 'the', 'those', 'once', 'does', 'do', 'towards', 'could', 'keep', 'them', 'for', 'twenty', 'something', 'but', 'my', 'see', 'that', 'in', 'others', 'side', 'of', 'further', 'during', 'upon', 'behind', 'become', 'almost', 'whose', 'another', 'its', 'within', 'thereafter', 'bottom', 'whereas', 'when', 'seeming', 'just', 'either', 'put', 'or', 'call', 'being', 'be', 'fifty', 'beside', 'across', 'may', 'whereby', 'neither', 'was', 'rather', 'if', 'formerly', 'amongst', 'where', 'thus', 'ourselves', 'themselves', 'hence', 'ours']
+    # custom stop words:
+    stop_words += ['\'s', 'St.', 'tabu']
+    for stop_word in stop_words:
+        nlp.vocab[stop_word].is_stop = True
+
+    # gather all known words, if they have vector representation
+    print("loading up the all_words list...")
+    all_words = list({w for w in nlp.vocab if w.has_vector})
 
     return nlp
 
@@ -46,10 +53,17 @@ def vector(w):
     return vector
 
 def find_similar(target, count=10, offset=0):
+    target_string = target
+
     if type(target) == str:
         target_vector = vector(target)
+        print("Got a vector for %s" % target)
     elif type(target) == spacy.lexeme.Lexeme or spacy.tokens.token.Token:
-        target_vector = target.vector
+        target_string = target.orth_
+        if _similars.get(target_string):
+            return _similars.get(target_string)
+        else:
+            target_vector = target.vector
     elif type(target) == numpy.ndarray:
         target_vector = target
     else:
@@ -58,6 +72,8 @@ def find_similar(target, count=10, offset=0):
 
     all_words.sort(key=lambda w: vector_similarity(w, target_vector))
     similar = all_words[offset:offset+count]
+    _similars[target_string] = similar
+    # print("Got similar words for %s @ %s" % (target, datetime.datetime.time(datetime.datetime.now())))
     return similar
 
 def mutation_candidates(tokens):
@@ -71,9 +87,11 @@ def ok_to_tweet(m):
     if len(m) > 140:
         return False
     # any words that aren't real?
-    elif any([w.is_oov for w in nlp(m)]):
+    # elif any([w.is_oov for w in nlp(m)]):
+    #     return False
+    # any bad words?
+    elif wordfilter.blacklisted(m):
         return False
-    # TODO: filter bad words
     else:
         return True
 
@@ -94,7 +112,7 @@ def mutate(motif, verbose=False, index=None):
         new_motif = body
 
         if verbose:
-            print("Finding ~similar words for %s" % candidates)
+            print("Finding ~similar words for %s @ %s" % (candidates, datetime.datetime.time(datetime.datetime.now())))
         to_sub = list((c.orth_, get_mutation_substitute(c)) for c in candidates)
 
         for candidate,replacement in to_sub:
@@ -162,7 +180,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     if args.verbose:
-        print("Mutating %s motifs from %s and %s writing out to %s" % ("ALL" if args.everything else args.count, args.infile, "OVER" if args.wipe else "",args.outfile))
+        print("Mutating %s motifs from %s and %swriting out to %s" % ("ALL" if args.everything else args.count, args.infile, "OVER" if args.wipe else "",args.outfile))
     else:
         print("Mutating %s motifs..." % "ALL" if args.everything else args.count)
 
