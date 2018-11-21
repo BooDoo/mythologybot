@@ -9981,7 +9981,6 @@ D441.1 Transformation: tree to animal.
 D441.2 Transformation: fruit to animal.
 D441.2.1 Transformation: fruit to birds.
 D441.3 Transformation: branch of tree to animal.
-D441.3.1 Transformation: faggots to chargers.
 D441.3.2 Transformation: log to bear.
 D441.4 Transformation: plant to animal.
 D441.4.1 Transformation: fern to animal.
@@ -11229,7 +11228,6 @@ D953.2 Magic birch twig.
 D954 Magic bough.
 D955 Magic leaf.
 D956 Magic stick of wood.
-D957 Magic faggot.
 D958 Magic thorn.
 D961 Magic garden.
 D961.1 Garden produced by magic.
@@ -12098,7 +12096,6 @@ D1323.19 Lamp gives him who looks into its flame a vision of the Most High.
 D1324 Magic object indicates tides.
 D1324.1 Magic bag full at high tide, empty at ebb tide.
 D1324.1.1 Magic tub drips at high tide, is watertight at ebb tide.
-D1324.2 Magic faggot drips to indicate rising tide.
 D1325 Magic object reveals future history.
 D1325.1 Magic book wherein is written family's destiny.
 D1326 Magic object renders judgment.
@@ -27070,7 +27067,6 @@ H1023.15 Task: turning fruit into gold.
 H1023.16 Task: making sun and moon shine in the north.
 H1023.17 Task: sowing rye and bringing crop next morning.
 H1023.18 Task: putting peaches back on tree.
-H1023.19 Task: bringing bundle of faggots without rope to tie them.
 H1023.20 Task: fetching water from the well in a bucket without the use of rope to draw it with.
 H1023.21 Task: gathering a necklace of rubies from the sea.
 H1023.22 Task: catching a sunbeam.
