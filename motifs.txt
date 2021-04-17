@@ -3215,7 +3215,6 @@ A1555.1.1 Origin of custom of throwing fruits on bridal couple.
 A1555.2 Origin of custom of purchasing wives.
 A1555.3 Why umbrellas are used to welcome bride to new home.
 A1556 Origin of sexual restrictions.
-A1556.1 Beginning of law against rape.
 A1556.2 Origin of celibacy.
 A1556.3 Origin of adultery.
 A1556.3.1 Origin of decrying female sinners.
@@ -20217,7 +20216,6 @@ F420.6.1.3 Mortal goes to home of water-spirits and marries.
 F420.6.1.4 Water-maiden goes to home of mortal and marries.
 F420.6.1.5 Water-maidens make conditions for lovers.
 F420.6.1.6 Offspring of marriage between mortal and water-spirit.
-F420.6.1.7 Water-spirit surprises and rapes a mortal woman.
 F420.6.2 Love and marriage between water-spirits and other spirits.
 F420.6.2.1 Water-man marries fairy.
 F420.6.2.2 Water-maiden marries giant.
@@ -23098,7 +23096,6 @@ F932.8.4 Treacherous river overflows and drowns victims.
 F932.8.5 Shallow river rushes up to drown man.
 F932.8.6 River piles up to a height of three hundred miles.
 F932.9 Ford across impassable river created by saint.
-F932.10 River divides into two parts after rape in its bed.
 F932.11 Firelike waters of river used by strange beings to cook flesh.
 F932.12 Speaking river (brook).
 F933 Extraordinary occurrences connected with springs.
@@ -25353,7 +25350,6 @@ G475 Ogre attacks intruders.
 G475.1 Ogre attacks intruders in house in woods.
 G475.2 Ogre attacks intruders on bridge.
 G476 Ugly ogre terrifies women who flee and are drowned.
-G477 Ogre kills men and rapes women.
 G478 Ogre kills noisy children.
 G501 Stupid ogre.
 G510.1 Defeated giant gives his daughter to victor.
@@ -29381,13 +29377,11 @@ J1172.4 Turtle released by man to carry him across stream.
 J1173 Series of clever unjust decisions: plaintiff voluntarily withdraws.
 J1173.1 Novel settlement of dispute.
 J1173.1.1 Novel settlement: snake's wife must wait to kill prince till princess bears as many sons as snake has.
-J1174 Clever decisions concerning kissing and rape.
 J1174.1 Youth in court for kissing prince's daughter pleads his love for her.
 J1174.2 Complaint about the stolen kiss.
 J1174.2.1 Man breaks promise to sleep chastely with woman.
 J1174.3 The girl screams when she is robbed.
 J1174.4 Girls must pay for young man's virginity.
-J1174.5 Man's torn garment as proof of his innocence of rape.
 J1175 Judgments concerning arson.
 J1175.1 The cat in the warehouse.
 J1175.2 Intentional and accidental fire.
@@ -34921,7 +34915,6 @@ K2111 Potiphar's wife.
 K2111.0.1 Telling a story to allay a woman's amorous desires.
 K2111.1 Woman makes vain overtures to stepson and falsely accuses him of murder.
 K2111.2 Spurned woman accuses man of theft.
-K2111.3 Friar refuses to keep promise after enjoying woman and is accused of rape.
 K2111.4 Adulteress tricks husband into killing allegedly importunate lover.
 K2111.5 Mother falsely accuses son of incest with her.
 K2111.6 Girl falsely accuses bishop.
@@ -35584,7 +35577,6 @@ M4 Deity settles disputes between races.
 M11 Irrevocable judgment causes judge to suffer first.
 M12 Irrevocable sentence carried out even when innocence is proved.
 M13 Sentence applied to king's own son. Those caught in adultery are to have eyes put out.
-M13.1 Ruler has son beheaded for rape.
 M13.2 Captain hangs own son for violating order not to enter enemy city.
 M13.3 Gardener made king by minister decides against him in law case and returns lands to plaintiff.
 M14 Irrevocable judgment of king upheld.
@@ -37387,7 +37379,6 @@ P12.1 Hunting a madness of kings.
 P12.2 Injustice deadliest of monarch's sins.
 P12.2.1 Tyrannical king.
 P12.3 Usurper imposes burdensome taxes.
-P12.4 King who intends rape killed.
 P12.5 Good king never retreats in battle.
 P12.5.0.1 Dead king carried into battle in his war-chariot.
 P12.5.1 King in battle hides in ditch, with earth piled around him.
@@ -37621,7 +37612,6 @@ P231.6 Mother (eagle) casts out dull, stupid changeling; rears bold, energetic s
 P231.7 Mother commits suicide when son wants to marry foreigner according to foreign rites.
 P232 Mother and daughter.
 P232.1 Wicked mother and her sons do everything to prevent daughter's marriage with beloved.
-P232.2 Mother lets daughter unwittingly marry own father in order to avenge his raping.
 P233 Father and son.
 P233.1 Son as pledge for father who has committed murder.
 P233.2 Young hero rebuked by his father.
@@ -38569,7 +38559,6 @@ Q243.5 Punishment for consorting with one of lower class.
 Q243.6 Tiger instead of girl in box tears lecherous teacher to pieces.
 Q244 Punishment for ravisher.
 Q244.0.1 Ravisher is forced to marry girl and then is executed.
-Q244.1 Punishment for attempted rape.
 Q244.2 Knight who ravished nun captured when she miraculously appears before him on his horse and holds reins until he is taken.
 Q244.3 Prostitute with venereal disease sent to lecherous king.
 Q245 Punishment for refusal to marry after girl is pregnant.
@@ -39346,7 +39335,6 @@ Q552.1.3 Impostor killed by lightning.
 Q552.1.4 Death by thunderbolt as punishment for opposition to holy person.
 Q552.1.5 Death by thunderbolt as punishment for treachery.
 Q552.1.6 Death by thunderbolt as punishment for injustice.
-Q552.1.7 Woman who accused saint of raping her is struck by lightning.
 Q552.1.8 Infidel defies God to strike him with lightning.
 Q552.1.8.1 Cattle thief calls on God to strike him with lightning if he has ever stolen a cow or calf.
 Q552.2 Sinking of earth as punishment.
@@ -41434,7 +41422,6 @@ T321.1 Maid pledged to celibacy is given, at her prayer, a beard.
 T321.2 Girl named Mary has virginity spared by knight who has bought her.
 T321.3 Girl's virginity spared by knight when he sees her surrounded by the Virgin and her train.
 T321.4 Girl prays to Virgin to spare her virginity.
-T321.5 Magic sickness (discomfort) prevents lover from raping woman.
 T321.6 In answer to maiden's prayer saint changes boat's course and guides it to another place.
 T322 Girl strikes man who tries to kiss her.
 T322.1 Woman kicks lecherous monk down the stairs.
@@ -41455,7 +41442,6 @@ T327 Mutilation to repel lover.
 T327.1 Maiden sends to her lecherous lover (brother) her eyes (hands, breasts) which he has admired.
 T327.2 Woman successfully prays for disease to repel lover.
 T327.3 Saint plucks out her eye when urged to marry.
-T327.4 Maidens befoul selves with blood to escape rape.
 T327.5 Woman raises sores on her body to preserve chastity.
 T327.6 Princess takes on loathsome disguise to avoid unwelcome demon-lover.
 T327.7 Girl escapes from undesired lover by cutting off her plaits of hair.
@@ -41581,8 +41567,6 @@ T465.4 Children are spotted like leopards as result of bestiality.
 T465.5 Pig born with head like that of man as a result of bestiality.
 T466 Necrophilism: sexual intercourse with dead human body.
 T467 The amorous bite.
-T471 Rape.
-T471.0.1 Fines imposed for rape.
 T471.1 Man unwittingly ravishes his own sister.
 T471.2 Wild man as ravisher of women.
 T471.3 Husband sends wife poison to avoid having her ravished by the enemy.
