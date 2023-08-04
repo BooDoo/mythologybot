@@ -18,9 +18,9 @@ export API_KEY=$(curl -s -X POST \
   -d "$POST_DATA" \
   "$API_KEY_URL" | jq -r .accessJwt)
 
+BSKY_STATUS=${TWEET//$'\n'/\\n}
 POST_FEED_URL='https://bsky.social/xrpc/com.atproto.repo.createRecord'
-POST_RECORD='{ "collection": "app.bsky.feed.post", "repo": "'"${DID}"'", "record": { "text": "'"${TWEET//$'\n'/\\n}"'", "createdAt": "'"$(date +%Y-%m-%dT%H:%M:%S.%3NZ)"'", "$type": "app.bsky.feed.post" } }'
-
+POST_RECORD='{ "collection": "app.bsky.feed.post", "repo": "'"${DID}"'", "record": { "text": "'"${BSKY_STATUS}"'", "createdAt": "'"$(date +%Y-%m-%dT%H:%M:%S.%3NZ)"'", "$type": "app.bsky.feed.post" } }'
 curl -s -X POST \
   -H "Authorization: Bearer ${API_KEY}" \
   -H 'Content-Type: application/json' \
